@@ -1,0 +1,1 @@
+{"hidden_layers": 5, "hidden_neurons": 400, "dropout_rate": 0.2, "l2": 0.0, "optimizer": "adam", "learning_rate": 0.005, "batch_size": 128}
