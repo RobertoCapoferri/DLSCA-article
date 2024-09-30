@@ -14,3 +14,9 @@ filenames are structured as <TRAINDEV><TARGET>_<SUFFIX> where
    - `hp.json` contains the hyperparamters for the specific model
    - `model` contains the model in hd5 format
    - if it contains `ptx` it means that it is referred to a network trained with trace data + plaintext information. The plaintext can be appended as is or scaled in [0,1]
+
+## Acknowledgments
+
+This work was supported in part by project SERICS (PE00000014)
+under the NRRP MUR program funded by the EU – NGEU. We also thank Luca
+Castellazzi for his initial realization of our NN models.
